@@ -1,0 +1,3 @@
+[submodule "IDE-frontend"]
+	path = IDE-frontend
+	url = https://github.com/luz315/IDE-frontend.git
